@@ -1,4 +1,4 @@
-# ChessAssignment_IDZDigital
+# ChessAssignment
 
 
 The Movement Scripts are Located inside the Scripts->LegalMoves directory
